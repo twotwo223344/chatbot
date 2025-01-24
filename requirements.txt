@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+bs4
+langchain
+langchain-community 
+langchain_huggingface
+google-generativeai
+faiss-cpu
+streamlit

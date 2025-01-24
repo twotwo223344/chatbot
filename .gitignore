@@ -1,0 +1,14 @@
+# 밑에 내용은 무시
+venv
+.vscode
+__pycache__
+**/__pycache__
+chatbot.zip
+
+#github에 push하기 위한 과정
+
+#1) add: 바뀐내용 스테이징
+#git add.
+#2) commit: 그제서야 기록
+#git commit -m "테스트"
+#3) push: 리모트에 커밋된거 푸시 git push origin main
